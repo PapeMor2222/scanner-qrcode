@@ -16,3 +16,6 @@ Une fois les dépendences téléchergées exécuter **ionic serve**
 Pour s'identifier tapper comme **username** : pape.mor et **mot de passe**: esp2020
 
 Ensuite démarrer le QRCode pour scanner et afficher les informations
+
+![1](https://raw.githubusercontent.com/PapeMor2222/scanner-qrcode/master/src/QRCodeHome.JPG)
+![2](https://raw.githubusercontent.com/PapeMor2222/scanner-qrcode/master/src/QRCodeLogin.JPG)
